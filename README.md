@@ -1,5 +1,7 @@
 # Stereo
 
+This repo adds the zipped file (to make it easier for some people to have stereo)
+
 Among Us custom lobby music mod.
 
 ![Stereo Screenshot of "Some Generic Music Title" playing](./images/StereoScreenshot.png)
